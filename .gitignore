@@ -1,4 +1,11 @@
 # Python
 dist/
 *.egg-info/
+.mypy_cache/
 __pycache__/
+.pytest_cache/
+.ropeproject/
+
+
+# Visual Studio Code
+*.code-workspace
