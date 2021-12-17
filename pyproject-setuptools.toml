@@ -27,6 +27,7 @@ keywords = [
   'application',
   'app',
 ]
+
 classifiers = [
   'Development Status :: 3 - Alpha',
   # 'Development Status :: 4 - Beta',
@@ -110,7 +111,7 @@ Documentation = 'https://Django-AI.GitHub.io/XDF'
 
 [build-system]
 requires = [
-  'SetUpTools >= 59.4.0',
+  'SetUpTools >= 59.6.0',
   'Wheel >= 0.37.0'
 ]
 build-backend = 'setuptools.build_meta'
