@@ -7,10 +7,10 @@ description = 'Data Frames / Data Feeders with high-level abstractions for key t
 license = 'MIT'
 
 authors = [
-  'STEAM for Vietnam Foundation AI & Robotics Educational Initiative <Edu.AI@STEAMforVietNam.org>'
+  'STEAM for Vietnam Foundation AI, IoT & Robotics Educational Initiative <Edu.AI@STEAMforVietNam.org>'
 ]
 maintainers = [
-  'STEAM for Vietnam Foundation AI & Robotics Educational Initiative <Edu.AI@STEAMforVietNam.org>'
+  'STEAM for Vietnam Foundation AI, IoT & Robotics Educational Initiative <Edu.AI@STEAMforVietNam.org>'
 ]
 
 readme = 'README.md'
